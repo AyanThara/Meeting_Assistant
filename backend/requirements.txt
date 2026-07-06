@@ -1,0 +1,7 @@
+vision-agents==0.6.6
+vision-agents-plugins-getstream==0.6.6
+vision-agents-plugins-gemini==0.6.6
+vision-agents-plugins-deepgram==0.6.2
+python-dotenv
+aiofiles
+pydantic
